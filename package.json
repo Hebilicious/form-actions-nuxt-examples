@@ -1,0 +1,16 @@
+{
+  "name": "advanced-playground",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview"
+  },
+  "devDependencies": {
+    "@hebilicious/form-actions-nuxt": "latest",
+    "@hebilicious/server-block-nuxt": "0.3.4",
+    "@hebilicious/sfc-server-volar": "0.3.4",
+    "@nuxt/devtools": "^1.0.2",
+    "nuxt": "3.8.1"
+  }
+}
