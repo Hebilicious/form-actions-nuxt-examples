@@ -1,0 +1,14 @@
+{
+  "name": "simple-playground",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview"
+  },
+  "devDependencies": {
+    "@hebilicious/form-actions-nuxt": "latest",
+    "@nuxt/devtools": "^1.0.2",
+    "nuxt": "3.8.1"
+  }
+}
